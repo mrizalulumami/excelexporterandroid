@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772395972696",
+    "project_id": "rtexcellfirebase",
+    "storage_bucket": "rtexcellfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772395972696:android:ff796258f8b1d9337bb22d",
+        "android_client_info": {
+          "package_name": "com.rt.excelfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772395972696-149um4tandef3ppbovhulcvvb4itupmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZN73bbqN3YNquNdre0RpbtGjiH_mAao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772395972696-149um4tandef3ppbovhulcvvb4itupmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
